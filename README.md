@@ -1,16 +1,20 @@
-## Hi there 👋
+## hey there
 
-<!--
-**miqimly/miqimly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I think about type systems and how programming languages shape the way we solve problems. I'm into creating spaces where people feel comfortable being genuine, and I find it interesting when systems fail. there's always something to learn from the breaking points.
 
-Here are some ideas to get you started:
+[reach me here](https://miqimblog.xyz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stuff i work with
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cmake,figma,gtk,lua,js,cpp,git&theme=dark&perline=8" />
+</a>
+
+### stuff i'm learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,c,go,zig&theme=dark&perline=8" />
+</a>
+
+### stuff i'm using
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,nix,neovim,arch,tmux&theme=dark&perline=8" />
+</a>
